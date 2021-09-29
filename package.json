@@ -1,0 +1,30 @@
+{
+  "name": "nextmernaws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansouzal/NextMernAws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansouzal/NextMernAws/issues"
+  },
+  "homepage": "https://github.com/jonathansouzal/NextMernAws#readme",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.16.13",
+    "bootstrap": "^5.1.1",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
